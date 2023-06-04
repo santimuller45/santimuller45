@@ -1,8 +1,8 @@
 ### Hola! Mi nombre es SANTIAGO MÜLLER 👋  
 
 ### QUIEN SOY? 
-<div align="center">Soy un Programador FullStack que esta estudiando actualmente en Henry!🚀</div> 
-<div align="center"> Me apasiona el mundo de la tecnologia, soy un técnico en computación recibido y ahora estoy estudiando programación en el bootcamp de Henry.</div>  
+Soy un Programador FullStack que esta estudiando actualmente en Henry!🚀
+Me apasiona el mundo de la tecnologia, soy un técnico en computación recibido y ahora estoy estudiando programación en el bootcamp de Henry.
   
 
 
