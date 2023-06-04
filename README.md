@@ -36,10 +36,10 @@ Actualmente estoy finalizando el Bootcamp de Henry
 
 
 ### No dudes en contactarme!  
-<a href="https://github.com/https://github.com/santimuller45" target="_blank">
+<a href="https://github.com/santimuller45" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/santiago-muller-934767198/" target="_blank">
+<a href="www.linkedin.com/in/santiago-muller-934767198/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 <br/>
