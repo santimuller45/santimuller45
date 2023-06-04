@@ -1,20 +1,18 @@
 ### Hola! Mi nombre es SANTIAGO MÜLLER 👋  
 
 ### Quien soy?  
-### <div align="center">Soy un Programador FullStack que esta estudiando actualmente en soyHenry!🚀
-Me apasiona el mundo de la tecnologia, soy un técnico en computación recibido y ahora estoy estudiando programación en el bootcamp de soyHenry.</div>  
+### <div align="center">Soy un Programador FullStack que esta estudiando actualmente en Henry!🚀
+Me apasiona el mundo de la tecnologia, soy un técnico en computación recibido y ahora estoy estudiando programación en el bootcamp de Henry.
+</div>  
   
 
 
 
 ### Que Hago?  
 - Actualmente estoy trabajando en la parte de logística en una empresa de mi ciudad, pero quiero crecer y poder dedicarme a la programación que es lo que me encanta.
+- Finalizando el Bootcamp de Henry
 
-Actualmente estoy finalizando el Bootcamp de Henry  
   
-
-
-
 ### Que tecnologías uso?  
 - El Bootcamp de soyHenry me ha permitido adquirir conocimiento y experiencia fundamental sobre distintas tecnologías que son:  
   
