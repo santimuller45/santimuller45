@@ -7,12 +7,12 @@
 
 
 
-### Que Hago?  
+### QUE HAGO?  
 - Actualmente estoy trabajando en la parte de logística en una empresa de mi ciudad, pero quiero crecer y poder dedicarme a la programación que es lo que me encanta.
 - Finalizando el Bootcamp de Henry
 
   
-### Que tecnologías uso?  
+### QUE TECNOLOGÍAS USO?  
 - El Bootcamp de soyHenry me ha permitido adquirir conocimiento y experiencia fundamental sobre distintas tecnologías que son:  
   
 
