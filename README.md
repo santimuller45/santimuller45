@@ -1,10 +1,4 @@
 ### Hola! Mi nombre es SANTIAGO MÜLLER 👋  
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
-
 
 ### Quien soy?  
 ### <div align="center">Soy un Programador FullStack que esta estudiando actualmente en soyHenry!🚀
@@ -48,9 +42,8 @@ Actualmente estoy finalizando el Bootcamp de Henry
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/santiago-muller-934767198/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
-
-<br/>  
+<br/>
+santiagomuller45@gmail.com
 
 
 <!--
